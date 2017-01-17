@@ -7,7 +7,7 @@ Bug Report
 
 Hello community, 
 
-thanks that you want to report and contribute for Dalaran-WoW!
+Thanks that you want to report and contribute for Warforged-WoW!
 
 Please use the issuetemplate below to report a new issue.
 
@@ -26,7 +26,7 @@ Stay tuned and follow us on the bugtracker. Then you will see the newest updates
 
 
 
-**Here you can open up a new issue** 
+**Here you can open up a new issue** https://github.com/warforged335/Warfroged/issues/new
 
 **Current behaviour**: Tell us what happens in detail (Where, When, What, Why, Who)
 
